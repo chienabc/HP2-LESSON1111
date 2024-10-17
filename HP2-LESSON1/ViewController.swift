@@ -14,8 +14,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         
-        var name :String = "NGUYEN MINH CHIEN"
+        var name :String = "NGUYEN MINH TAM"
         print(name)
+        print("Tôi tên là \(name)")
     }
 
 
